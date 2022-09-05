@@ -26,7 +26,7 @@ interests:
   - Macroeconomics
   - Labor search
   - Firms dynamics
-  - Climate 
+  - Climate economics
 
 # Education to show in About widget
 education:
