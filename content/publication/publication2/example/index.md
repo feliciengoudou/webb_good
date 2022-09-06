@@ -5,7 +5,7 @@ title: 'Life-cycle worker flows in a dual labour market'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jonathan Crechet
+  - [Jonathan Crechet](https://github.com/wowchemy/hugo-academic-cli)
   - Felicien Goudou
 
 # Author notes (optional)
