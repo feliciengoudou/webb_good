@@ -62,7 +62,7 @@ social:
     link: https://www.linkedin.com/in/felicien-jesugo-goudou-225b375a/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/feliciengoudou
 
 
 
