@@ -5,7 +5,7 @@ title: 'Life-cycle worker flows in a dual labour market'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  -  [Jonathan Crechet](url "https://unsplash.com/photos/pLCdAaMFLTE)
+  - Jonathan Crechet
   - Felicien Goudou
 
 # Author notes (optional)
@@ -76,7 +76,7 @@ url_video: ''
 slides: []
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -84,4 +84,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
