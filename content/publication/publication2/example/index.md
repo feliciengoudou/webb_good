@@ -4,7 +4,7 @@ title: 'Life-cycle worker flows in a dual labour market'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors: ["[Emmanuel Teitelbaum](https://sites.google.com/site/immoschott/)", "Aparna Ravi"]
+authors: ["Jonathan Crechet", "Felicien Goudou"]
 
 
 # Author notes (optional)
