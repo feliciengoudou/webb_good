@@ -92,7 +92,7 @@ highlight_name: true
 Welcome to my website. I am a PhD candidate in Economics at the University of Montreal. My research explores a broad range of topics, but focuses mainly on macroeconomics, firm dynamics, and labor market questions.
 \
 \
-I am on the job market 2022/2023 and will be available for interviews at the AEA/AFA, the European Job Market, and the Canadian Economics Employment Exchange annual meetings.
+I am on the job market 2022/2023 and will be available for interviews at the AEA/AFA, the European Job Market, and the Canadian Economics Employment Exchange annual meetings. [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
 \
 \
 My CV is available {{< staticref "uploads/CV_Jesugo_G.pdf" "newtab" >}}here{{< /staticref >}}.
