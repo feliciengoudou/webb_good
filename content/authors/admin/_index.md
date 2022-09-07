@@ -89,7 +89,7 @@ highlight_name: true
 
 \
 \
-Welcome to my website. I am a PhD candidate in Economics at the University of Montreal. My research explores a broad range of topics, but focuses mainly on macroeconomics, firm dynamics, and labor market questions.
+Welcome to my website. I am a Ph.D.  candidate in Economics at the University of Montreal. My research focuses mainly on macroeconomics, firm dynamics, and labor market questions.
 \
 \
 I am on the job market 2022/2023 and will be available for interviews at the AEA/AFA, the European Job Market, and the Canadian Economics Employment Exchange annual meetings.
