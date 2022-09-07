@@ -1,5 +1,5 @@
 ---
-title: 'Life-cycle worker flows in a dual labour market'
+title: 'Life Cycle Worker Flows in a Dual Labour Market'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
