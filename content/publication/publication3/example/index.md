@@ -1,5 +1,5 @@
 ---
-title: 'Climate policy, Financial frictions and Aggregate productivity'
+title: 'Climate Policy, Financial Frictions and Aggregate Productivity'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
