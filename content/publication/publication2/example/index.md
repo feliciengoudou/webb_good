@@ -29,7 +29,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication: Working Paper
 #publication_short: In *ICW*
 
-abstract:
+abstract: fghjhknnnkjn
 
 # Summary. An optional shortened abstract.
 summary:
@@ -84,4 +84,4 @@ slides: ""
 <!-- Create your slides in Markdown - click the _Slides_ button to check out the example. -->
 <!-- {{% /callout %}}  -->
 
-<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --> 
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
