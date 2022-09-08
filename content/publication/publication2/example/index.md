@@ -29,7 +29,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication: Working Paper
 #publication_short: In *ICW*
 
-abstract: fghjhknnnkjn
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary:
