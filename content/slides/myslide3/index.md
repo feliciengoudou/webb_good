@@ -28,6 +28,6 @@ ___
 ___
 {{< slide background-image="slide_carb_10.jpeg" >}}
 ___
-{{< slide background-image="slide_carb_11.jpeg" >}}
+{{< slide background-image="slide_carb.pdf" >}}
 
 ___
