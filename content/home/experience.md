@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 100
 
-title: Experience
+title: Teaching
 subtitle:
 
 # Date format for experience
@@ -27,10 +27,10 @@ experience:
     company_url: ''
     #company_logo: org-gc
     location: Montreal
-    date_start: '2021-01-01'
+    date_start: ''
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Courses include:
 
         * Macroeconomics Theory I & II (Fall 2018 ; Winter 2018, 2019 & 2020)
         * Introductory Macroeconomics (Fall 2019)
@@ -43,8 +43,8 @@ experience:
     company_url: ''
     #company_logo: org-x
     location: Montreal
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: ''
+    date_end: ''
     description: Taught Quantitative Economics II (Undergraduate. Winter 2018, 2020 & 2021 ; Fall 2019 & 2020)
 
 design:
