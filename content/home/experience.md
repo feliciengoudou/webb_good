@@ -23,17 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-- title: Instructor
-  company: University X
-  company_url: ''
-  company_logo: org-x
-  location: California
-  date_start: ''
-  date_end: ''
-  description: Taught Quantitative Economics II (undergraduate)
-
   - title: Teaching Assistance
-    company: University of Montreal
+    company: University X
     company_url: ''
     company_logo: org-gc
     location: Montreal
@@ -48,6 +39,14 @@ experience:
         * Inequality and Growth (winter 2018)
         * Quantitative Methods (Fall 2017, graduate Ph.D. level)
 
+    - title: Instructor
+      company: University X
+      company_url: ''
+      company_logo: org-x
+      location: California
+      date_start: ''
+      date_end: ''
+     description: Taught Quantitative Economics II (undergraduate)
 
 
 design:
