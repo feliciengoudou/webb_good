@@ -26,26 +26,26 @@ experience:
     company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Montreal
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
 
-        * Macroeconomics Theory I & II (Fall 2018, Winter 2018,2019,2020)
+        * Macroeconomics Theory I & II (Fall 2018 ; Winter 2018, 2019 & 2020)
         * Introductory Macroeconomics (Fall 2019)
         * Principles of Economics  (Fall 2020)
         * Inequality and Growth (winter 2018)
         * Quantitative Methods (Fall 2017, graduate Ph.D. level)
 
-  - title: Professor of Semiconductor Physics
+  - title: Instructor
     company: University X
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Mpntreal
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught Quantitative Economics II (Undergraduate. Winter 2018, 2020 & 2021 ; Fall 2019 & 2020)
 
 design:
   columns: '2'
