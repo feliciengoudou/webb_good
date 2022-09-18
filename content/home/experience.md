@@ -28,7 +28,7 @@ experience:
   company_url: ''
   company_logo: org-x
   location: California
-  date_start: 'Winter 2018'
+  date_start: ''
   date_end: ''
   description: Taught Quantitative Economics II (undergraduate)
 
