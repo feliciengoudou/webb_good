@@ -12,7 +12,7 @@ role:
 organizations:
   - name: "----------------------------"
   - name: "Contact:"
-  - name: University of Montreal
+  - name: Université de Montreal
     url:  https://www.umontreal.ca/en/
   - name: Department of Economics
     url:  https://sceco.umontreal.ca/accueil/
@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: PhD in Economics
-      institution: University of Montreal
+      institution: Université de Montreal
       year: 2023 (Expected)
     - course: M.Sc. in Statistics and Economics
       institution:  National School of Statistics and Applied Economics
@@ -89,7 +89,7 @@ highlight_name: true
 
 \
 \
-Welcome to my website. I am a Ph.D.  candidate in Economics at the University of Montreal. My research focuses mainly on macroeconomics, firm dynamics, and labor market questions.
+Welcome to my website. I am a Ph.D.  candidate in Economics at the Université de Montreal. My research focuses mainly on macroeconomics, firm dynamics, and labor market questions.
 \
 \
 I am on the 2022/2023 job market and will be available for interviews at the AEA/AFA, the European Job Market, and the Canadian Economics Employment Exchange annual meetings.
