@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: TEACHING ASSISTANCE
+    company: Udem
     company_url: ''
     company_logo: org-gc
     location: Montreal
@@ -38,11 +38,11 @@ experience:
         * Inequality and Growth (winter 2018)
         * Quantitative Methods (Fall 2017, graduate Ph.D. level)
 
-  - title: Instructor
-    company: University X
+  - title: INSTRUCTOR
+    company: Udem
     company_url: ''
     company_logo: org-x
-    location: Mpntreal
+    location: Montreal
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught Quantitative Economics II (Undergraduate. Winter 2018, 2020 & 2021 ; Fall 2019 & 2020)
