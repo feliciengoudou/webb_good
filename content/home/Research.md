@@ -32,7 +32,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: Citation
+  view: Card
   columns: '2'
 
 
