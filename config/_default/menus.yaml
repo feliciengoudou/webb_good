@@ -23,7 +23,7 @@ main:
     url: uploads/CV_Jesugo_G.pdf
     weight: 20
   - name: Teaching
-    url: '#accomplishments'
+    url: '#experience'
     weight: 30
   #- name: Contact
   #  url: '#contact'
