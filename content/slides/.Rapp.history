@@ -1,0 +1,26 @@
+require(pdftools) #converts pdf slide show to jpegs#
+require(glue) #allow for naming
+require(pdftools) #converts pdf slide show to jpegs
+require(pdftools)
+install.packages("pdftools")
+install.packages("glue")
+require(pdftools)
+require(glue)
+print("Is your working directory set to the folder where you site is housed?")
+directory <- readline(prompt = "myslide1")
+pdf_name <- readline(promp = "NCA_slides")
+cur_wd <- getwd()
+cur_wd
+setwd(/Users/jesugo/Downloads/webb_good)
+setwd('/Users/jesugo/Downloads/webb_good')
+cur_wd <- getwd()
+cur_wd
+directory_path <- glue("{cur_wd}/content/slides/{directory}")
+file_path <- glue("{directory_path}/{pdf_name}.pdf")
+setwd(directory_path)
+pdf_convert(file_path, format = "jpeg", pages = NULL,#
+            filenames = NULL, dpi = 300, opw = "", upw = "", verbose = TRUE)
+cur_wd
+directory
+directory <- readline(prompt = "myslide1")
+directory
