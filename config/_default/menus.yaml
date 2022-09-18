@@ -7,9 +7,9 @@ main:
   # - name: Home
   #   url: '#about'
   #   weight: 10
- - name: Posts
-   url: '#posts'
-  weight: 30
+ #- name: Posts
+   #url: '#posts'
+  #weight: 30
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
@@ -22,6 +22,9 @@ main:
   - name: CV
     url: uploads/CV_Jesugo_G.pdf
     weight: 20
+  - name: Teaching
+    url: '#accomplishments'
+    weight: 30
   #- name: Contact
   #  url: '#contact'
   #  weight: 30
