@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 90
 
 title: Teaching
 subtitle:
@@ -26,8 +26,8 @@ experience:
     company: Udem
     company_url: ''
     #company_logo: org-gc
-    location: Montreal
-    date_start: ''
+    location: Université de Montreal
+    date_start: '2017-01-01'
     date_end: ''
     description: |2-
         Courses include:
@@ -39,12 +39,12 @@ experience:
         * Quantitative Methods (Fall 2017, graduate Ph.D. level)
 
   - title: INSTRUCTOR
-    company: Udem
+    company: Université de Montreal
     company_url: ''
     #company_logo: org-x
     location: Montreal
-    date_start: ''
-    date_end: ''
+    date_start: '2018-01-01'
+    date_end: '2021-12-31'
     description: Taught Quantitative Economics II (Undergraduate. Winter 2018, 2020 & 2021 ; Fall 2019 & 2020)
 
 design:
