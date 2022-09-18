@@ -25,7 +25,7 @@ experience:
   - title: TEACHING ASSISTANCE
     company: Udem
     company_url: ''
-    company_logo: org-udem
+    #company_logo: org-gc
     location: Montreal
     date_start: '2021-01-01'
     date_end: ''
@@ -41,7 +41,7 @@ experience:
   - title: INSTRUCTOR
     company: Udem
     company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: Montreal
     date_start: '2016-01-01'
     date_end: '2020-12-31'
