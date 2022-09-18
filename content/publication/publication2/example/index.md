@@ -29,7 +29,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication: Working Paper
 #publication_short: In *ICW*
 
-abstract: 
+abstract: Heterogeneity in the worker flows, and their dynamics over the life cycle account for a significant difference in employment across high-income countries. This paper examines the temporary and permanent employment contract dualism as a source of the life-cycle worker flows. Using data from the French continuous employment survey, we estimate that the transition rates from unemployment into temporary (UT) and permanent (UP) employment contracts exhibit a declining profile over the life cycle for high education workers but a flat profile for low education workers. The same result is observed for the transition probability from temporary to permanent employment contract (TP). We show that a model with heterogeneous workers and jobs that features uncertainty
+and Bayesian learning about worker ability and match-specific unemployment risk can deliver these salient features observed in the data.
 
 # Summary. An optional shortened abstract.
 summary:
