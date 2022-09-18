@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Experience
 subtitle:
@@ -22,16 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
-  - title: Teaching Assistance
-    company: University X
+  - title: CEO
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: Montreal
-    date_start: ''
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Courses include:
+        Responsibilities include:
 
         * Macroeconomics Theory I & II (Fall 2018, Winter 2018,2019,2020)
         * Introductory Macroeconomics (Fall 2019)
@@ -39,15 +38,14 @@ experience:
         * Inequality and Growth (winter 2018)
         * Quantitative Methods (Fall 2017, graduate Ph.D. level)
 
-    - title: Instructor
-      company: University X
-      company_url: ''
-      company_logo: org-x
-      location: California
-      date_start: ''
-      date_end: ''
-     description: Taught Quantitative Economics II (undergraduate)
-
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
