@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+
+- title: Instructor
+  company: University X
+  company_url: ''
+  company_logo: org-x
+  location: California
+  date_start: 'Winter 2018'
+  date_end: ''
+  description: Taught Quantitative Economics II (undergraduate)
+
+  - title: Teaching Assistance
+    company: University of Montreal
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Montreal
+    date_start: ''
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Courses include:
 
-        * Analysing
-        * Modelling
-        * Deploying
+        * Macroeconomics Theory I & II (Fall 2018, Winter 2018,2019,2020)
+        * Introductory Macroeconomics (Fall 2019)
+        * Principles of Economics  (Fall 2020)
+        * Inequality and Growth (winter 2018)
+        * Quantitative Methods (Fall 2017, graduate Ph.D. level)
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+
 
 design:
   columns: '2'
