@@ -25,7 +25,7 @@ experience:
   - title: TEACHING ASSISTANT
     company: Université de Montreal
     company_url: ''
-    company_logo: icon
+    #company_logo: icon
     location: Montreal
     date_start: '2017-01-01'
     date_end: ''
@@ -41,7 +41,7 @@ experience:
   - title: INSTRUCTOR
     company: Université de Montreal
     company_url: ''
-    company_logo: icon
+    #company_logo: icon
     location: Montreal
     date_start: '2018-01-01'
     date_end: '2021-12-31'
