@@ -7,9 +7,9 @@
 
 appearance:
   theme:  custom_theme
-  #theme_day: minimal
-  #theme_night: mr robot
-  day_night: false
+  theme_day: minimal
+  theme_night: mr robot
+  #day_night: false
   font: 'custom_font'
   font_size: L
 
