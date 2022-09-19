@@ -10,14 +10,14 @@ appearance:
   theme_day: minimal
   theme_night: mr robot
   font: 'custom_font'
-  font_size: M
+  font_size: L
 
 # SEO
 
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_businßess_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
