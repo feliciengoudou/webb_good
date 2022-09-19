@@ -1,11 +1,11 @@
 ---
-title: 'The Employment Effects of Non-compete Contracts: Job Retention vs. Job Creation'
+title: 'The Employment Effects of Non-compete Contracts: Job Retention versus Job Creation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  #- 
+  #-
   #- Robert Ford
 
 # Author notes (optional)
@@ -26,7 +26,7 @@ publishDate: '2017-01-01T00:00:00Z'
 #publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Job Market Paper
+publication: Job Market Paper (submitted)
 #publication_short: In *ICW*
 
 abstract: This paper studies the labor market effects of Non-Compete Agreements (NCAs) that constrain employee mobility, in a search model featuring random hiring and endogenous separation. Non-compete clauses limit workers' job opportunities; thus, an unemployed worker who is bound by NCAs has a lower job finding rate relative to the unconstrained worker. Moreover, since NCAs encourage firm investment through the lengthening of job tenure, firms prefer to include them and are incentivized to create vacancies for jobs that have a higher probability of including NCAs in their contracts. Hence, the average job finding rate increases with the incidence of NCAs through increased labor market tightness. Conversely, a higher incidence of NCAs also increases the proportion of job seekers that are constrained by NCAs, making job vacancies more difficult to fill. Therefore, the average job finding rate drops through decreasing labor market tightness. Calibrated to the US economy, the model implies a decreasing job finding rate with the incidence of NCAs, consistent with the evidence found in US data. This fact appears as a trade-off for a lower job separation rate and higher firm investment in worker human capital implied by a higher incidence of NCAs. In equilibrium, the model predicts a higher unemployment rate associated with a higher incidence of enforceable NCAs in the economy. In addition, the paper shows that a restriction on the duration of NCAs is welfare improving.
@@ -73,7 +73,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: myslide1
+slides: #myslide1
 ---
 
 <!-- {{% callout note %}}
