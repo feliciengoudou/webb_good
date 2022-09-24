@@ -89,10 +89,10 @@ highlight_name: true
 
 \
 \
-Welcome to my website. I am a Ph.D.  candidate in Economics at the Université de Montreal. My research focuses mainly on macroeconomics, firm dynamics, and labor market questions.
+Welcome to my website. I am a Ph.D.  candidate in Economics at the [Université de Montreal](https://sceco.umontreal.ca/accueil/). My research lies on macroeconomics with a focus on labor economics, firm heterogeneity and misallocation of factors./
 \
 \
-I am on the 2022/2023 job market and will be available for interviews at the AEA/AFA, the European Job Market, and the Canadian Economics Employment Exchange annual meetings.
+I am on the 2022/2023 job market and will be available for interviews at the American Economic Association (AEA/ASSA), the European Job Market (EJME), and the Canadian Economics Employment Exchange (CEEE) annual meetings.
 \
 \
 My CV is available {{< staticref "uploads/CV_Jesugo_G.pdf" "newtab" >}}here{{< /staticref >}}.
