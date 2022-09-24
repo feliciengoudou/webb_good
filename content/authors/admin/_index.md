@@ -24,7 +24,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Macroeconomics
-  - Labor search
+  - Macro-labor
   - Firms dynamics
   - Climate economics
 
