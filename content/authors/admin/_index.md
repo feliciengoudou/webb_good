@@ -89,7 +89,7 @@ highlight_name: true
 
 \
 \
-Welcome to my website. I am a Ph.D.  candidate in Economics at the [Université de Montreal](https://sceco.umontreal.ca/accueil/). My research lies on macroeconomics with a focus on labor economics, firm heterogeneity and misallocation of factors./
+Welcome to my website. I am a Ph.D.  candidate in Economics at the [Université de Montreal](https://sceco.umontreal.ca/accueil/). My research lies on macroeconomics with a focus on labor economics, firm heterogeneity and misallocation of factors.
 \
 \
 I am on the 2022/2023 job market and will be available for interviews at the American Economic Association (AEA/ASSA), the European Job Market (EJME), and the Canadian Economics Employment Exchange (CEEE) annual meetings.
