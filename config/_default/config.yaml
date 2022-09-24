@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Feliciano Goudou # Website name
+title: Felicien Goudou # Website name
 baseURL: 'https://www.jesugogoudou.me' # Website URL
 
 ############################
