@@ -70,8 +70,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-sitemap:
-  changefreq: monthly
-  filename: sitemap.xml
-  priority: 0.5
